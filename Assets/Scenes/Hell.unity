@@ -648,7 +648,7 @@ Transform:
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 5523.971, y: -39.3, z: 0.096123815}
-  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalScale: {x: 1.1131, y: 1.1131, z: 1.1131}
   m_ConstrainProportionsScale: 0
   m_Children:
   - {fileID: 2028409600}
@@ -1075,7 +1075,7 @@ Transform:
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: 0.26286283, z: -0, w: 0.96483326}
   m_LocalPosition: {x: 0, y: 168.5, z: 0}
-  m_LocalScale: {x: 1.6858001, y: 1.6858, z: 1.6858001}
+  m_LocalScale: {x: 2.2102525, y: 4.214, z: 2.2102525}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 144462004}
@@ -2716,7 +2716,7 @@ Transform:
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: 0.51877326, z: -0, w: 0.85491186}
   m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 1.6858001, y: 1.6858, z: 1.6858001}
+  m_LocalScale: {x: 2.2102525, y: 4.214, z: 2.2102525}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 144462004}
@@ -6198,11 +6198,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6a1d0d862f32dbb44866805768fc4473, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  WidthInnerCircle: 3
-  withOutherCircle: 8
-  Theta: 0
-  y: 0
-  dy: 0.05
 --- !u!4 &1206218866
 Transform:
   m_ObjectHideFlags: 0
@@ -6510,7 +6505,7 @@ PrefabInstance:
     - target: {fileID: 3172777771318187970, guid: e937e4b948ab34a4ab4885cb9231d8fd,
         type: 3}
       propertyPath: m_Name
-      value: Capsule
+      value: Player
       objectReference: {fileID: 0}
     - target: {fileID: 6186788179810891035, guid: e937e4b948ab34a4ab4885cb9231d8fd,
         type: 3}
@@ -9796,7 +9791,7 @@ Transform:
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: 0, y: 337.09998, z: 0}
-  m_LocalScale: {x: 1.6858, y: 1.6858, z: 1.6858}
+  m_LocalScale: {x: 2.2102523, y: 4.214, z: 2.2102523}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 144462004}

@@ -17,7 +17,7 @@ public class Spiral : MonoBehaviour
         Mesh = GetComponent<MeshFilter>().mesh;
 
         GenerateSpiral();
-        SaveMesh.Save(Mesh, "Assets/art/models/Spiral2.asset");
+        //SaveMesh.Save(Mesh, "Assets/art/models/Spiral2.asset");
 
     }
 
